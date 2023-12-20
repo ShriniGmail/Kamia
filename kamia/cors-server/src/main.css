@@ -1,0 +1,52 @@
+/* main.css */
+.parent-div {
+  width: "1200px";
+  display: flex;
+  flex-wrap: wrap;
+  border: 1px solid #ccc;
+}
+
+.child-div1 {
+  width: 200px;
+  margin: 5px;
+  padding: 10px;
+  border: 0px solid #ccc;
+  box-sizing: border-box; /* Include padding and border in the total width and height */
+}
+.child-div2 {
+  width: 200px;
+  margin: 5px;
+  padding: 10px;
+  border: 0px solid #ccc;
+  box-sizing: border-box; /* Include padding and border in the total width and height */
+}
+.child-div3 {
+
+  width: 200px;
+  margin: 5px;
+  padding: 10px;
+  border: 0px solid #ccc;
+  box-sizing: border-box; /* Include padding and border in the total width and height */
+}
+.child-div4 {
+
+  width: 200px;
+  margin: 5px;
+  padding: 10px;
+  border: 0px solid #ccc;
+  box-sizing: border-box; /* Include padding and border in the total width and height */
+}
+.child-div5 {
+  width: 200px;
+  margin: 5px;
+  padding: 10px;
+  border: 0px solid #ccc;
+  box-sizing: border-box; /* Include padding and border in the total width and height */
+}
+.child-div6 {
+  width: 200px;
+  margin: 5px;
+  padding: 10px;
+  border: 0px solid #ccc;
+  box-sizing: border-box; /* Include padding and border in the total width and height */
+}
