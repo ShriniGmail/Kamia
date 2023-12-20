@@ -1,0 +1,3 @@
+[submodule "kamia/kamia/cors-server"]
+	path = kamia/kamia/cors-server
+	url = https://github.com/ShriniGmail/Kamia.git
